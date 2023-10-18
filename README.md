@@ -1,2 +1,2 @@
-# Graph-reduction-techniques-using-machine-learning
-swarm behaviour, flocking mechanism, graph pruning, edge sampling, node sampling
+# Graph-reduction-techniques-using-edge sampling
+edge sampling
